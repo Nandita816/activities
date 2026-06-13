@@ -1,1 +1,1 @@
-
+Task 5: This repository explains how to set up a Python environment on Windows using pyenv-win and venv. It covers installing Python versions, setting global/project Python, and creating virtual environments for isolated development.
